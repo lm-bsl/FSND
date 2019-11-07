@@ -1,4 +1,4 @@
-babel
+babel == 2.70
 python-dateutil==2.6.0
-flask-moment
-flask-wtf
+flask-moment == 0.9.0
+flask-wtf == 0.14.2
